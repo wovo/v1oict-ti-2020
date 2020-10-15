@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "hc595-walk.py" )
+print( "hc595 walk" )
 
 shift_clock_pin = 5
 latch_clock_pin = 6

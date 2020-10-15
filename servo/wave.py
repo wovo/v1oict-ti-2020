@@ -3,6 +3,8 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
+print( "servo wave" )
+
 def pulse( pin, delay1, delay2 ):
    # copieer hier je implementatie van de pulse functie
 

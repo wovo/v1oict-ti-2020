@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "print.py" )
+print( "sr04 print" )
 
 sr04_trig = 20
 sr04_echo = 21

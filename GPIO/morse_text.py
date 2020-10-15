@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "morse_code.py" )
+print( "GPIO morse text" )
 
 def pulse( pin_nr, high_time, low_time ):
    """

@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "walk.py" )
+print( "binair walk" )
 
 led_pins = [ 18, 4, 17, 27, 22 ]
 

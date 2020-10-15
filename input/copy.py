@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "twee.py" )
+print( "input copy" )
 
 led = 18
 switch = 23

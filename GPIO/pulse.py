@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "pulse.py" )
+print( "GPIO pulse" )
 
 def pulse( pin_nr, high_time, low_time ):
    """

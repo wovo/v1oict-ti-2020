@@ -3,7 +3,7 @@ import time
 GPIO.setmode( GPIO.BCM )
 GPIO.setwarnings( 0 )
 
-print( "blink.py" )
+print( "GPIO blink" )
 
 GPIO.setup( 18, GPIO.OUT )
 while True:
